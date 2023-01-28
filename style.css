@@ -205,3 +205,25 @@ nav{
     font-size: 20px;
     color: #727272;
 }
+.Sponspors{
+    margin-top: 180px;
+    text-align: center;
+}
+.sponspors-companey{
+    margin: 60px 240px;
+    display: flex;
+    justify-content: space-evenly;
+    mix-blend-mode: luminosity;
+}
+footer{
+    margin: 130px 240px 240px 240px;
+    background: #FFF4E7;
+    border-radius: 8px;
+}
+footer p{
+    font-weight: 400;
+    font-size: 20px;
+    color: #424242;
+    padding: 39px 350px;
+
+}
